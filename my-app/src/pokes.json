@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Articuno",
+    "image":
+      "./images/articuno.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Eevee",
+    "image":
+      "./images/eevee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Happiny",
+    "image":
+      "./images/happiny.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mareep",
+    "image":
+      "./images/mareep.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Phanpy",
+    "image":
+      "./images/phanpy.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Picachu",
+    "image":
+      "./images/picachu.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Popplio",
+    "image":
+      "./images/popplio.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Solgaleo",
+    "image":
+      "./images/solgaleo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Suicune",
+    "image":
+      "./images/suicune.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Treecko",
+    "image":
+      "./images/treecko.jpg"
+  },
+{
+    "id": 11,
+    "name": "Toucannon",
+    "image":
+      "./images/toucannon.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tyrantrum",
+    "image":
+      "./images/tyrantrum.jpg"
+  }
+]

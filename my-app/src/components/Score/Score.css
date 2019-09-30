@@ -1,0 +1,31 @@
+.score {
+  background: rgb(70, 168, 95);
+  width: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  color: darkblue;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+.score a {
+ color: darkblue;
+  ;
+}
+
+ul {
+  list-style-type: none;
+}
+.reg {
+  color: darkblue;
+}
+
+.guess-right {
+  color: rgb(53, 17, 53);
+}
+
+.guess-wrong {
+  color: red;
+}
